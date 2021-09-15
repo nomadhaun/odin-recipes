@@ -6,7 +6,7 @@ View the website at [https://nomadhaun.github.io/odin-recipes/](https://nomadhau
 
 
 ## PROJECT
-Create a recipes website and pushing to GitHub
+A small recipes website to get acquainted with Git & GitHub and basic HTML structure. 
 ## SKILLS
 ### Git
 - Create a git repository on GitHub.com
@@ -18,6 +18,3 @@ Create a recipes website and pushing to GitHub
 - Creation of basic HTML boilerplate
 - Unordered and ordered lists
 - Links and images
-
-## SELF REFLECTION
-To be developed
